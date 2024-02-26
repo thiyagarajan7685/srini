@@ -1,0 +1,17 @@
+#API
+--- pdf_extract
+	removed export code
+--- table_extracted.py
+       removed print statement
+--- views.py
+	add color for the piechart
+-- added sample file in the demo folder
+
+
+#UI
+--- dashboard.jsx
+	added color 
+--- doc_tab.jsx and img_tab.jsx and json_tab.jsx and pdf_tab.jsx and text_tab.jsx
+	replaced gold instead of source
+        updated the error message
+
